@@ -5,14 +5,15 @@ const meta = {
 };
 
 const introdata = {
-    title: "I’m Adel Osma",
+    title: "I’m Adel Osman",
     animated: {
         first: "I love Writing",
-        second: "I am podcaster",
-        third: "I a writer",
+        second: "I am Podcaster",
+        third: "I Adel",
     },
     description: "As a writer and content creator, I am committed to crafting compelling narratives that captivate readers and inspire them to take action. From writing to content creation and translation, my passion for storytelling is reflected in every piece I create.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    //your_img_url: "https://i.ibb.co/QvwJLgC/Fotograf-Malin-Lindnerlowres-4411-2.jpg",
+    your_img_url: "https://i.ibb.co/XWpdrNY/Fotograf-Malin-Lindnerlowres-4418-2.jpg",
 };
 
 const dataabout = {
@@ -73,70 +74,16 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://image.bokus.com/images/9789189881198_200px_7-km_e-bok",
+        description: "7 km är en självbiografisk berättelse, där Adel Osman på bara tio år går från att vara flykting i Dalarna till att plugga klart på ett av Sveriges största universitet.",
+        link: "https://www.bokus.com/bok/9789189881198/7-km/",
     },
 
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
+    YOUR_EMAIL: "osmanadel061@gmail.com",
     YOUR_FONE: "(555)123-4567",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
@@ -147,10 +94,10 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    youtube: "https://youtube.com",
+    facebook: "https://facebook.com/adelosman",
+    linkedin: "https://linkedin.com/adelosman",
+    twitter: "https://twitter.com/adelosman",
 };
 export {
     meta,
