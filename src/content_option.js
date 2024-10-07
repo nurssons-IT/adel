@@ -1,24 +1,42 @@
 const logotext = "Adel";
 const meta = {
     title: "Adel Osman",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    description: "del Osman är en debutant- författare och komiker",
 };
 
 const introdata = {
-    title: "I’m Adel Osman",
+    title: "Adel Osman",
     animated: {
-        first: "I love Writing",
-        second: "I am Podcaster",
-        third: "I Adel",
+        first: "Författare",
+        second: "Komiker",
+       // third: "",
     },
-    description: "As a writer and content creator, I am committed to crafting compelling narratives that captivate readers and inspire them to take action. From writing to content creation and translation, my passion for storytelling is reflected in every piece I create.",
+    description: "Adel Osman är en debutant- författare och komiker som är aktuell med\n" +
+        "sin självbiografi 7 km. Boken är en självbiografi där berättelsen startar\n" +
+        "på flyktingförläggningen i Dalarna 2008 då Adel var en flykting tills det\n" +
+        "att han hade avlagt examen på universitet drygt tio år senare. Viktiga\n" +
+        "teman som täcks av 7 km är integration, psykisk hälsa,\n" +
+        "identitetssökande och humor.",
     //your_img_url: "https://i.ibb.co/QvwJLgC/Fotograf-Malin-Lindnerlowres-4411-2.jpg",
     your_img_url: "https://i.ibb.co/XWpdrNY/Fotograf-Malin-Lindnerlowres-4418-2.jpg",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "Om Adel Osman",
+    aboutme: "Adel är född och uppvuxen i en traditionell muslimsk-eritreansk familj. När\n" +
+        "han tillsammans med familjen flyr från hemlandet, hamnar familjen i Dalarna.\n" +
+        "Genom berättelsen i 7 km, tar Adel med läsaren från tiden då familjen befann sig på\n" +
+        "flyktingförläggningen, hela vägen tills han hade gått klart på ett av Sveriges största\n" +
+        "universitet.\n" +
+        "Sedan 2020 bor Adel i Köln, Tyskland och är bosatt där med sin familj. Vintern\n" +
+        "2023, fullbordade Adel sin dröm om att ge ut sin debutbok 7 km som han började\n" +
+        "skriva under ”lockdown” tiden dvs Corona-tiden.\n" +
+        "Idag är Adel taxichaufför, familjepappa (make & far till två), frilansande\n" +
+        "författare och komiker som pendlar mellan Tyskland och Sverige.\n" +
+        "Genom sina erfarenheter och betraktelser som han själv hade varit med om, vill\n" +
+        "Adel idag stötta främst ungdomar, men även vuxna som på ett eller annat sätt arbetar\n" +
+        "med tonåringar. Det kan vara alltifrån lärare, socialsekreterare och handläggare på\n" +
+        "olika myndigheter. ",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
@@ -85,7 +103,7 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "osmanadel061@gmail.com",
     YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "För beställing till min bok, kontakta mig via mejl eller telefonen",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
