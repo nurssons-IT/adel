@@ -101,9 +101,9 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "osmanadel061@gmail.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "För beställing till min bok, kontakta mig via mejl eller telefonen",
+    YOUR_EMAIL: "adelosman702@gmail.com",
+    //YOUR_FONE: "+46762895944",
+    description: "För att beställa boken, vänligen kontakta mig via mejl",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
